@@ -2,7 +2,7 @@
 
 A kit of tools that i developed and use in my workspace.
 
-```ps
+```powershell
 # Deletes current folder contents and downloads specified repository then checks if it's up to date.
 UpdateLocalRepository <repoUrl>
 ```
