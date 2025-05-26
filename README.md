@@ -1,10 +1,14 @@
 # PowerShell Tools
 
-A kit of tools that i developed and use in my workspace.
+A kit of tools that i developed and use in my workflow.
 
 ```powershell
-# Deletes current folder contents and downloads specified repository then checks if it's up to date.
-ulr <repoUrl>
-```
+# deletes everything (even folders) in the current directory
+clsdir
 
-###### skittlexyz 2024
+# resets explorer.exe
+rstexp
+
+# changes win10 theme
+theme <'dark','light'>
+```
